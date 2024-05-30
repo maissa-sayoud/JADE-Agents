@@ -59,7 +59,7 @@ This repository is organized as follows :
 
 Make sure u add the external JAR file of JADE to the project.
 
-## Ressources
+## Ressources of Tech Agent unit
 https://drive.google.com/drive/folders/1UIuBqYodgXkP9tTytMwU0c-YTACa5Ksr
 
 
