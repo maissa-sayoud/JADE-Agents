@@ -55,6 +55,9 @@ This repository is organized as follows :
 └── README.md
 
 
+# Remarques :
+
+Make sure u add the external JAR file of JADE to the project.
 
 
 
