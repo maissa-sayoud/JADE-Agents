@@ -18,7 +18,7 @@ This repository is organized as follows :
 
 │   │   ├── MobileBuyerAgent.java
 
-│   │   ├── SecondaryPlatform.java (not really important since Agent can't migrate inter Platforms)
+│   │   ├── SecondaryPlatform.java (not really important since Agents can't migrate inter Platforms)
 
 │   │   └── Seller.java
 
@@ -28,7 +28,7 @@ This repository is organized as follows :
 
 ├── TP
 
-│   ├── TP1 BAckward Chaining
+│   ├── TP1 Backward Chaining
 
 │   ├── TP1 Forward Chaining
 
@@ -42,15 +42,15 @@ This repository is organized as follows :
 
 │   ├── TP6 Behaviour
 
-│   ├── Lab1 Chainage-Avant-Arriere-Mixte.pdf
+│   ├── Lab1 Chainage-Avant-Arriere-Mixte.pdf (énoncé du TP)
 
-│   ├── Lab2 JADE.pdf
+│   ├── Lab2 JADE.pdf (énoncé du TP)
 
-│   ├── Lab3 JADE.pdf
+│   ├── Lab3 JADE.pdf (énoncé du TP)
 
-│   ├── Lab4 JADE.pdf
+│   ├── Lab4 JADE.pdf (énoncé du TP)
 
-│   └── SAYOUD Maissa Lab Reports.pdf
+│   └── SAYOUD Maissa Lab Reports.pdf (Rapport détaillé de tous les TPs réalisés)
 
 └── README.md
 
